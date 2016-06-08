@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "giphy-api": "^1.1.16",
+    "pretty-bytes": "^2.0.1"
+  },
+  "devDependencies": {
+    "devtron": "^1.2.0",
+    "electron-prebuilt": "^0.35.2"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
